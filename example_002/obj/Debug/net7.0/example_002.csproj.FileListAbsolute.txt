@@ -1,0 +1,14 @@
+C:\Users\maks1\Desktop\c#\example_001\example_002\bin\Debug\net7.0\example_002.exe
+C:\Users\maks1\Desktop\c#\example_001\example_002\bin\Debug\net7.0\example_002.deps.json
+C:\Users\maks1\Desktop\c#\example_001\example_002\bin\Debug\net7.0\example_002.runtimeconfig.json
+C:\Users\maks1\Desktop\c#\example_001\example_002\bin\Debug\net7.0\example_002.dll
+C:\Users\maks1\Desktop\c#\example_001\example_002\bin\Debug\net7.0\example_002.pdb
+C:\Users\maks1\Desktop\c#\example_001\example_002\obj\Debug\net7.0\example_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maks1\Desktop\c#\example_001\example_002\obj\Debug\net7.0\example_002.AssemblyInfoInputs.cache
+C:\Users\maks1\Desktop\c#\example_001\example_002\obj\Debug\net7.0\example_002.AssemblyInfo.cs
+C:\Users\maks1\Desktop\c#\example_001\example_002\obj\Debug\net7.0\example_002.csproj.CoreCompileInputs.cache
+C:\Users\maks1\Desktop\c#\example_001\example_002\obj\Debug\net7.0\example_002.dll
+C:\Users\maks1\Desktop\c#\example_001\example_002\obj\Debug\net7.0\refint\example_002.dll
+C:\Users\maks1\Desktop\c#\example_001\example_002\obj\Debug\net7.0\example_002.pdb
+C:\Users\maks1\Desktop\c#\example_001\example_002\obj\Debug\net7.0\example_002.genruntimeconfig.cache
+C:\Users\maks1\Desktop\c#\example_001\example_002\obj\Debug\net7.0\ref\example_002.dll
